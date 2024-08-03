@@ -45,7 +45,6 @@ const myProjects = [
 ];
 
 const ul = document.querySelector("section#projects ul");
-console.log(ul);
 
 myProjects.forEach((project) => {
   const li = document.createElement("li");
