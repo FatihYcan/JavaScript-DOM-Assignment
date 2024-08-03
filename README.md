@@ -23,3 +23,7 @@ Bu proje, JavaScript kullanarak temel DOM işleme tekniklerini göstermektedir. 
 - Çeşitli öğelerin metin içeriğinin güncellenmesi.
 - Kullanıcı girişlerinin (kullanıcı adı ve şifre) işlenmesi ve devre dışı bırakılması.
 - Projelerin listesini dinamik olarak görüntüleme.
+
+![Cw](./img/dom.jpg)
+
+[Canlı Demo'yu Deneyin](https://fatihycan.github.io/JavaScript-DOM-Assignment/)
