@@ -25,7 +25,6 @@ passwordInput.value = "123456";
 passwordInput.type = "text";
 passwordInput.disabled = true;
 
-
 const btn = document.querySelector(".btn");
 btn.style.backgroundColor = "#C0EFC0";
 btn.style.padding = "10px";
