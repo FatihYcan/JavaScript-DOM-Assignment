@@ -11,6 +11,12 @@ This project demonstrates basic DOM manipulation techniques using JavaScript. Th
 - Handling user inputs (username and password) and making them disabled.
 - Displaying a list of projects dynamically.
 
+## Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+
 # JavaScript DOM Ataması
 
 ## Genel Bakış
@@ -23,6 +29,12 @@ Bu proje, JavaScript kullanarak temel DOM işleme tekniklerini göstermektedir. 
 - Çeşitli öğelerin metin içeriğinin güncellenmesi.
 - Kullanıcı girişlerinin (kullanıcı adı ve şifre) işlenmesi ve devre dışı bırakılması.
 - Projelerin listesini dinamik olarak görüntüleme.
+
+## Teknolojiler
+
+- HTML5
+- CSS3
+- JavaScript
 
 ![Cw](./img/dom.jpg)
 
